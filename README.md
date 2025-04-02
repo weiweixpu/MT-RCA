@@ -5,11 +5,11 @@ This is the code implementation for the method used in our paper 'Correlation-Dr
 Our models are trained and tested in the environment of Python 3.8, R 4.2.2, PyTorch 1.9.1, CUDA 11.1. 
 ## Models
 We make public the best model parameters optimized on the internal dataset used in this study (.pth format) , which can be obtained through the open platform:
-- [🔗 Multimodal-fusion-ViT-base-model](https://huggingface.co/WeiWei-XPU/Multimodal-fusion-ViT-base)
-- [🔗 Foundation-model-heatmap](https://huggingface.co/WeiWei-XPU/foundation-model-heatmap)
-- [🔗 Multimodal-fusion-densenet121-model](https://huggingface.co/WeiWei-XPU/Multimodal-fusion-densenet121-model)
-- [🔗 Multimodal-fusion-resnet50-model](https://huggingface.co/WeiWei-XPU/Multimodal-fusion-resnet50-model)
-- [🔗 Foundation-model-trajectory-plot](https://huggingface.co/WeiWei-XPU/foundation-model-trajectory-plot)
-- [🔗 Multimodal-fusion-foundation-model](https://huggingface.co/WeiWei-XPU/Multimodal-fusion-foundation-model)
-- [🔗 Multimodal-fusion-ViT-large-model](https://huggingface.co/WeiWei-XPU/Multimodal-fusion-ViT-large-model)
-- [🔗 Pretrained-densenet121-heatmap-model](https://huggingface.co/WeiWei-XPU/pretrained-densenet121-heatmap-model)
+- [🔗 MTLbest_model](https://huggingface.co/WeiWei-XPU/MTDL_model)
+- [🔗 ResNet_best_model（PPH)](https://huggingface.co/WeiWei-XPU/ResNet_model_PPH)
+- [🔗 ResNet_best_model(PAS)](https://huggingface.co/WeiWei-XPU/ResNet_model_PAS)
+- [🔗 vit_best_model(PPH)](https://huggingface.co/WeiWei-XPU/vit_model_PPH)
+- [🔗 vit_best_model(PAS)](https://huggingface.co/WeiWei-XPU/vit_model_PAS)
+- [🔗 svm_model(PPH)](https://huggingface.co/WeiWei-XPU/svm_model_PPH)
+- [🔗 svm_model(PAS)](https://huggingface.co/WeiWei-XPU/svm_model_PAS)
+
