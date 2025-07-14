@@ -2,7 +2,7 @@
 A Multi-task Deep Learning Network Combining Residual Networks (ResNet) and Cross-attention.
 This is the code implementation for the method used in our paper 'Correlation-Driven Multi-Task Learning for MRI-Based Joint Prediction of Placenta Accreta Spectrum and Postpartum Hemorrhage:A multicentre study.
 ## Requirements
-Our models are trained and tested in the environment of Python 3.8, R 4.2.2, PyTorch 1.9.1, CUDA 11.1. 
+Our models are trained and tested in the environment of Python 3.8, PyTorch 1.9.1, CUDA 11.1. 
 ## Models
 We make public the best model parameters optimized on the internal dataset used in this study (.pth format) , which can be obtained through the open platform:
 - [🔗 MTLbest_model](https://huggingface.co/WeiWei-XPU/MTDL_model)
